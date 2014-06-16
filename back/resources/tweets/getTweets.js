@@ -1,3 +1,5 @@
+//creates a get method for  list of resources
+
 exports.getIndex = function (req, res) {
   return req.db.collection('tweets').find()
     .sort({ created_at: -1 })
