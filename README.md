@@ -30,7 +30,7 @@ You'll need to have these installed before we can use synth.
 
 Node ver. 0.10.0 or higher - Available for free here
 NPM ver. 1.3 or higher (It should automatically be installed with Node these days)
-MongoDB - Available for free here - Don't forget to launch it in the backgroound after installing it.
+MongoDB - Don't forget to launch it in the backgroound after installing it.
 
 
 Once you've installed mongo and have it running type this into an open shell.
